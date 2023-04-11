@@ -8,4 +8,9 @@ public class demoGuerrero1 {
 		
 	}
 	
+	public void test() {
+
+		System.out.println("Hello Guerrero from luis espinal");
+	}
+	
 }
