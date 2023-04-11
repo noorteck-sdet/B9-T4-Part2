@@ -15,4 +15,9 @@ public class HWClass1 {
 		System.out.println(name);
 	}
 
+	public void test() {
+
+		System.out.println("Hello Dennisse from luis espinal");
+	}
+
 }
