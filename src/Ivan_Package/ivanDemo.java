@@ -10,6 +10,9 @@ public class ivanDemo {
 		String firstName = "Ivan";
 	System.out.println(firstName);
 }
+	public static void getLastName() {
+		String lastName = "Garcia";
+	}
 }
 
 
