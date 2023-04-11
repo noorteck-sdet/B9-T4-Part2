@@ -10,4 +10,8 @@ public class LuisEspinalDemo {
 		System.out.println("Test two");
 	}
 
+	public void test() {
+		
+		System.out.println("Hello Luis from Dennisse");
+	}
 }
