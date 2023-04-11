@@ -7,12 +7,11 @@ public class GustavoMedina_Demo {
 		
 		
 		System.out.println("Hello");
+	}
+	public static void getResult() {
+		System.out.println("Added code by Ivan");
 		
-		
-		
+			
 	}
 	
-	
-	
-
 }
