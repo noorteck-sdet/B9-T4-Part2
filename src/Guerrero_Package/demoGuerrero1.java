@@ -13,4 +13,8 @@ public class demoGuerrero1 {
 		System.out.println("Hello Guerrero from luis espinal");
 	}
 	
+	public void testing() {
+		System.out.println("Added line of code by Ivan");
+	}
+	
 }
