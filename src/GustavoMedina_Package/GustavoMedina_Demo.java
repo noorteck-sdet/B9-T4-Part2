@@ -11,6 +11,7 @@ public class GustavoMedina_Demo {
 	public static void getResult() {
 		System.out.println("Added code by Ivan");
 		System.out.println("Added code by Jose");
+		System.out.println("Hello Gustavo");
 		
 			
 	}
