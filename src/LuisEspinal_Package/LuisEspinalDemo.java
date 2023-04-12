@@ -28,4 +28,10 @@ public class LuisEspinalDemo {
 		
 		System.out.println("Hello Luis, this Gustavo Guerrero");
 	}
+	
+	public void stash() {
+		
+		System.out.println("Ian was here");
+	}
+	
 }
