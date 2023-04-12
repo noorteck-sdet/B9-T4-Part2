@@ -15,4 +15,20 @@ public class HWClass1 {
 		System.out.println(name);
 	}
 
+	public void test() {
+
+		System.out.println("Hello Dennisse from luis espinal");
+	}
+	
+	public void practice() {
+		System.out.println("Line of code added by Ivan");
+	}
+	
+	public void Practice2 () { 
+		
+		System.out.println("Hello Dennisse from Gustavo Medina");
+		
+	}
+	
+
 }

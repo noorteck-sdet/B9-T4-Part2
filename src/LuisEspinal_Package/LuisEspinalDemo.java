@@ -14,4 +14,10 @@ public class LuisEspinalDemo {
 		
 		System.out.println("Hello Luis from Dennisse");
 	}
+	
+	public void Test3() {
+		
+		System.out.println("Hello Luis from Gustavo Medina");
+		
+	}
 }
