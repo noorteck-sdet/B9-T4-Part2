@@ -21,4 +21,10 @@ public class GustavoMedina_Demo {
 		System.out.println("Hey neighbor, its pretty hot right now in San Pedro Sula. Its 88 fareheit");
 	}
 	
+	
+	public void tengohambre() {
+		
+		System.out.println("Whats Cooking?");
+	}
+	
 }
