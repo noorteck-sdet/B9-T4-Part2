@@ -35,5 +35,9 @@ public class HWClass1 {
 		System.out.println("Hi Dennisse, this Gustavo Guerrero");
 	}
 	
+	public void git() {
+		
+		System.out.println("Ian First Comment");
+	}
 
 }
