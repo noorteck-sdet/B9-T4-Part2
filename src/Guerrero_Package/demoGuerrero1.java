@@ -27,4 +27,11 @@ public class demoGuerrero1 {
 		System.out.println("Olimpia  is the Champion");
 	}
 	
+	
+	public void updateDennisse() {
+		
+		System.out.println("Hello Gustavo");
+		
+	}
+	
 }
