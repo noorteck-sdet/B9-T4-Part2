@@ -24,5 +24,11 @@ public class HWClass1 {
 		System.out.println("Line of code added by Ivan");
 	}
 	
+	public void Practice2 () { 
+		
+		System.out.println("Hello Dennisse from Gustavo Medina");
+		
+	}
+	
 
 }
