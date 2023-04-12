@@ -21,4 +21,10 @@ public class demoGuerrero1 {
 		System.out.println("Adding line of code by Jose");	
 	}
 	
+	
+	public static void Hello() { 
+		
+		System.out.println("Olimpia  is the Champion");
+	}
+	
 }
