@@ -13,11 +13,11 @@ public class demoGuerrero1 {
 		System.out.println("Hello Guerrero from luis espinal");
 	}
 	
-	public void testing() {
+	public void testing1() {
 		System.out.println("Added line of code by Ivan");
 	}
 	
-	public void testing(){
+	public void testing2(){
 		System.out.println("Adding line of code by Jose");	
 	}
 	
