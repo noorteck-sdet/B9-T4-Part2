@@ -30,5 +30,10 @@ public class HWClass1 {
 		
 	}
 	
+	public void sayHi() {
+		
+		System.out.println("Hi Dennisse, this Gustavo Guerrero");
+	}
+	
 
 }

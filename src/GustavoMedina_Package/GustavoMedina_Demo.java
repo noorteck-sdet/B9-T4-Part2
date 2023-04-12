@@ -16,4 +16,9 @@ public class GustavoMedina_Demo {
 			
 	}
 	
+	public void sameTown() {
+		
+		System.out.println("Hey neighbor, its pretty hot right now in San Pedro Sula. Its 88 fareheit");
+	}
+	
 }
