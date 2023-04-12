@@ -41,7 +41,16 @@ public class demoGuerrero1 {
 	public void updateDennisse() {
 		
 		System.out.println("Hello Gustavo");
+	}
+		
+		
+		public void latino() {
+			
+			System.out.println("Hello GG");
+			
+			
+		}
 		
 	}
 	
-}
+
