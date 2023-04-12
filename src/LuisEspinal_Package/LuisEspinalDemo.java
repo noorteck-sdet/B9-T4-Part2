@@ -20,6 +20,6 @@ public class LuisEspinalDemo {
 		System.out.println("Hello Luis from Gustavo Medina");
 		
 	}
-	public void test(){
+	public void test4(){
 		System.out.println("Hello from Ivan");
 }
