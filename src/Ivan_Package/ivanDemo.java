@@ -13,6 +13,15 @@ public class ivanDemo {
 	public static void getLastName() {
 		String lastName = "Garcia";
 	}
+	
+	
+	public static void Test() { 
+		
+	System.out.println("HEllo Ivan from Gustavo Medina");	
+	
+		
+	}
+	
 }
 
 
