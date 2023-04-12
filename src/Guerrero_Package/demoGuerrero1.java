@@ -1,11 +1,19 @@
 package Guerrero_Package;
 
 public class demoGuerrero1 {
+	
+	
+	String location = "Puerto Rico";
+	String greetings = "Hello from";
 
 	public static void main(String[] args) {
 		
 		System.out.println("Welcome Everyone");
+			
+		demoGuerrero1 obj = new demoGuerrero1();
 		
+		System.out.println(obj.greetings + " " + obj.location);
+			
 	}
 	
 	public void test() {
