@@ -12,6 +12,9 @@ public class EdyRodriguezDemo {
 	
 	public void hwTest() {
 		
+		
+		System.out.println("WBR, Llamada de Red Flag, RICH");
+		
 	}
 	
 }
