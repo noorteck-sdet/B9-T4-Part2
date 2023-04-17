@@ -14,6 +14,8 @@ public static void main(String[] args) {
 	
 	
 	System.out.println("Hello Ian From Gustavo Medina");
+	
+	System.out.println("Disfruta la playita :) -vane..");
 }
 
 

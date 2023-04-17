@@ -34,4 +34,8 @@ public class LuisEspinalDemo {
 		System.out.println("Ian was here");
 	}
 	
+	public void helloO() {
+		System.out.println("Hey Luis whats for lunch today?... -vane");
+	}
+	
 }

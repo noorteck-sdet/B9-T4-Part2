@@ -17,4 +17,8 @@ public class EdyRodriguezDemo {
 		
 	}
 	
+	public void greeting() {
+		System.out.println("Hello Edy.. -vanessa");
+	}
+	
 }

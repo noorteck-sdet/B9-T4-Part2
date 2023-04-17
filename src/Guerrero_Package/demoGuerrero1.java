@@ -50,6 +50,10 @@ public class demoGuerrero1 {
 			
 			
 		}
+		
+		public void hello() {
+			System.out.println("Hi Mr. Guerrero lol -vane..");
+		}
 	
 		
 	}

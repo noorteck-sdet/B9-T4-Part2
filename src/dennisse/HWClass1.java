@@ -44,5 +44,9 @@ public class HWClass1 {
 	 System.out.println("To test");	
 		
 	}
+	
+	public void catchingUp() {
+		System.out.println("Hello Dennisse, que hay de almuerzo para hoy?... -vane");
+	}
 
 }
