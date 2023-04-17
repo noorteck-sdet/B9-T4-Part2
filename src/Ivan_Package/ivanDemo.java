@@ -26,6 +26,10 @@ public class ivanDemo {
 		
 	}
 	
+	public void doRandomChanges() {
+		System.out.println("Random changes after deleting and cloning");
+	}
+	
 }
 
 
