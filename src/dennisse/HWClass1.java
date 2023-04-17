@@ -39,5 +39,10 @@ public class HWClass1 {
 		
 		System.out.println("Ian First Comment");
 	}
+	
+	public void testing() {
+	 System.out.println("To test");	
+		
+	}
 
 }
