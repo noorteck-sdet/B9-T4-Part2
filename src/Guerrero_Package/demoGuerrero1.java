@@ -51,6 +51,11 @@ public class demoGuerrero1 {
 			
 		}
 		
+		public void isHot() {
+			
+		 System.out.println("101 Farenheit in San Pedro Sula ");
+		}
+		
 	}
 	
 
