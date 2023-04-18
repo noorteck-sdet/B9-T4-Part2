@@ -41,21 +41,8 @@ public class demoGuerrero1 {
 	public void updateDennisse() {
 		
 		System.out.println("Hello Gustavo");
-	}
-		
-		
-		public void latino() {
-			
-			System.out.println("Hello GG");
-			
-			
-		}
-		
-		public void hello() {
-			System.out.println("Hi Mr. Guerrero lol -vane..");
-		}
 	
 		
+		System.out.println("Don't we just comment out a code to fix a bug? lol -vane");
 	}
-	
-
+}
