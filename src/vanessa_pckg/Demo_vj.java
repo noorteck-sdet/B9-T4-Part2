@@ -12,5 +12,8 @@ public class Demo_vj {
 		
 	}
 	
+	public void newCode() {
+		System.out.println("After deleting code..");
+	}
 	
 }
